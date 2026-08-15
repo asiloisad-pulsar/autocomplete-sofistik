@@ -12,7 +12,7 @@ Get hints as you type the SOFiSTiK input. Provides intelligent autocomplete sugg
 
 ## Installation
 
-To install `autocomplete-sofistik` search for [autocomplete-sofistik](https://web.pulsar-edit.dev/packages/autocomplete-sofistik) in the Install pane of the Pulsar settings or run `ppm install autocomplete-sofistik`. Alternatively, you can run `ppm install asiloisad/pulsar-autocomplete-sofistik` to install a package directly from the GitHub repository.
+To install `autocomplete-sofistik` search for [autocomplete-sofistik](https://web.pulsar-edit.dev/packages/autocomplete-sofistik) in the Install pane of the Pulsar settings or run `ppm install autocomplete-sofistik`. Alternatively, you can run `ppm install asiloisad-pulsar/autocomplete-sofistik` to install a package directly from the GitHub repository.
 
 This package requires [language-sofistik](https://github.com/asiloisad-pulsar/language-sofistik).
 
