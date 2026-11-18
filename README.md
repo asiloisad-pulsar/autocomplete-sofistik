@@ -2,6 +2,9 @@
 
 Get hints as you type the SOFiSTiK input. Provides intelligent autocomplete suggestions for SOFiSTiK modules, commands, and parameters.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [ide-sofistik](https://github.com/lumine-code/ide-sofistik).
+
 ## Features
 
 - **Context-aware suggestions**: Autocomplete adapts to your current module and command context.
